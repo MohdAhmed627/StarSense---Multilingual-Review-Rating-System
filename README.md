@@ -28,12 +28,12 @@ This project uses the Hugging Face model:
 ##### Model: nlptown/bert-base-multilingual-uncased-sentiment
 
 #### The model predicts:
-
-⭐ 1 Star
-⭐⭐ 2 Stars
-⭐⭐⭐ 3 Stars
-⭐⭐⭐⭐ 4 Stars
-⭐⭐⭐⭐⭐ 5 Stars
+<br>
+⭐ 1 Star <br>
+⭐⭐ 2 Stars <br>
+⭐⭐⭐ 3 Stars <br>
+⭐⭐⭐⭐ 4 Stars <br>
+⭐⭐⭐⭐⭐ 5 Stars <br>
 
 along with a confidence score for each prediction.
 
@@ -47,16 +47,14 @@ along with a confidence score for each prediction.
 
 
 
-pip install -r requirements.txt
 
-python app.py
-💬 Example Review
+#### 💬 Example Review
 
-Input
+Input: <br>
 
-"This phone is amazing. The battery lasts all day and the camera quality is outstanding."
+"This phone is amazing. The battery lasts all day and the camera quality is outstanding." <br>
 
-Prediction
+Prediction <br>
 
 ⭐⭐⭐⭐⭐
 5 Stars
