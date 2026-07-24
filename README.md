@@ -15,13 +15,13 @@ The application uses the nlptown/bert-base-multilingual-uncased-sentiment model,
  Responsive design suitable for desktop and mobile devices.
 
 ### Tech Stack
-Python
-Gradio
-Hugging Face Transformers
-BERT (Multilingual)
-PyTorch
-HTML & CSS (Gradio Custom Styling)
-🤖 AI Model
+- Python <br>
+- Gradio <br>
+- Hugging Face Transformers <br>
+- BERT (Multilingual) <br>
+- PyTorch <br>
+- HTML & CSS (Gradio Custom Styling) <br>
+- 🤖 AI Model
 
 This project uses the Hugging Face model:
 
