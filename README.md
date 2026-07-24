@@ -13,6 +13,7 @@ The application uses the nlptown/bert-base-multilingual-uncased-sentiment model,
  One-click Clear button.
  Fast inference using the Hugging Face Transformers pipeline.
  Responsive design suitable for desktop and mobile devices.
+
 ### Tech Stack
 Python
 Gradio
@@ -24,9 +25,9 @@ HTML & CSS (Gradio Custom Styling)
 
 This project uses the Hugging Face model:
 
-Model: nlptown/bert-base-multilingual-uncased-sentiment
+##### Model: nlptown/bert-base-multilingual-uncased-sentiment
 
-The model predicts:
+#### The model predicts:
 
 ⭐ 1 Star
 ⭐⭐ 2 Stars
@@ -36,27 +37,15 @@ The model predicts:
 
 along with a confidence score for each prediction.
 
-🌐 Supported Languages
+### 🌐 Supported Languages
 🇬🇧 English
 🇫🇷 French
 🇩🇪 German
 🇪🇸 Spanish
 🇮🇹 Italian
 🇳🇱 Dutch
-📷 Application Preview
 
-(Add screenshots or a GIF of the application here.)
 
-📂 Project Structure
-StarSense/
-│
-├── app.py                 # Main Gradio application
-├── requirements.txt       # Project dependencies
-├── README.md              # Project documentation
-└── assets/
-    └── screenshot.png
-
-cd StarSense
 
 pip install -r requirements.txt
 
@@ -74,7 +63,8 @@ Prediction
 
 Confidence Score:
 99.84%
-🎯 Future Improvements
+
+### 🎯 Future Improvements
 Support additional multilingual sentiment models.
 Add sentiment labels (Positive, Neutral, Negative).
 Display confidence charts and visual analytics.
@@ -82,11 +72,12 @@ Maintain prediction history.
 Enable CSV/Excel batch review analysis.
 Deploy on Hugging Face Spaces or Streamlit Cloud.
 Add dark mode and customizable themes.
-📜 License
+
+### 📜 License
 
 This project is intended for educational and learning purposes.
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 Mohd Ahmed
 
